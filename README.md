@@ -1,13 +1,15 @@
 README.Rmd
 ================
 
+R package of Methods Consultants branded RMarkdown templates
+
 Installation
 ------------
 
 To install the `mcdocs` package containing all of the Methods templates, run:
 
 ``` r
-devtools::install_github("MethodsConsultants/methods-rmd-templates/mcdocs")
+devtools::install_github("MethodsConsultants/mcdocs")
 ```
 
 -   To start a new document or presentation using a Methods template, create an RMarkdown document, navigate to the `From Template` screen on the sidebar and select which template you would like to use.
