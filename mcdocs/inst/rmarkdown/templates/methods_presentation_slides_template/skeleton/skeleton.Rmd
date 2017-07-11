@@ -1,0 +1,27 @@
+---
+title: "Methods - Slide Deck"
+author: "Methods Consultants of Ann Arbor"
+date: "Month/Day/Year"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+    logo: Methods-logo-rectangle.png
+    css: methods_slides.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Slide Heading 1
+
+- Insert text here
+
+# Transition slide 1
+
+
+## Slide Heading 2
+
+- Insert text here
