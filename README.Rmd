@@ -7,6 +7,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+R package of Methods Consultants branded RMarkdown templates
+
 ## Installation
 
 To install the `mcdocs` package containing all of the Methods templates, run:
