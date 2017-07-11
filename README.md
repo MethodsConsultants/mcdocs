@@ -1,4 +1,4 @@
-README.Rmd
+mcdocs
 ================
 
 R package of Methods Consultants branded RMarkdown templates
