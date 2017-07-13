@@ -1,0 +1,52 @@
+---
+title: "Methods Consultants Report"
+author: "[author name]"
+date: "[date]"
+output:
+  word_document:
+    reference_docx: methods-style-references.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(knitr)
+
+```
+
+# Methods
+
+This is where the methods section of the report goes.
+
+Additional paragraphs should also be in this format.
+
+
+## Primary Analysis
+
+Methods of primary analysis go here.
+
+## Secondary Analysis
+
+Methods of secondary analysis go here.
+
+
+#Results
+
+##Primary Analysis
+
+Results of primary analysis go here.
+
+## Secondary Analysis
+
+Results of secondary analysis go here.
+
+
+\newpage
+
+# Tables and Figures
+
+```{r, echo=FALSE}
+plot(pressure)
+```
+**Figure 1.** Insert figure caption here

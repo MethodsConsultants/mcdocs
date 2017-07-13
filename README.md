@@ -19,7 +19,9 @@ devtools::install_github("MethodsConsultants/mcdocs")
     4.  Create a new directory to store the files associated with the template
     5.  Click `OK`
 -   Current templates in the package:
-    -   `Methods Consultants Presentation Slides`
+    -   Methods Consultants Presentation Slides
+    -   Methods Consultants Word Document
+    -   Methods Consultants PDF Report
 
 ### Methods Consultants Presentation Slides
 
@@ -30,3 +32,23 @@ devtools::install_github("MethodsConsultants/mcdocs")
 -   and non-title slides:
 
     ![Non-title slide](inst/rmarkdown/templates/mc_pres_temp/skeleton/mc_non_title_slide.png)
+
+### Methods Consultants Word Document
+
+-   This `.docx` template has the following format for the first page:
+
+    ![Title slide](inst/rmarkdown/templates/mc_docx_temp/skeleton/mc_docx_firstpage.png)
+
+-   and following pages:
+
+    ![Title slide](inst/rmarkdown/templates/mc_docx_temp/skeleton/mc_docx_nextpage.png)
+
+### Methods Consultants PDF Report
+
+-   This `.pdf` template has the following format for the first page:
+
+    ![Title slide](inst/rmarkdown/templates/mc_pdf_temp/skeleton/mc_pdf_firstpage.png)
+
+-   and following pages:
+
+    ![Title slide](inst/rmarkdown/templates/mc_pdf_temp/skeleton/mc_pdf_nextpage.png)
