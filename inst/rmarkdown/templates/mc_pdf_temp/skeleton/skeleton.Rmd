@@ -2,7 +2,6 @@
 title: "Methods Consultants Report"
 author: "[author name]"
 date: "[date]"
-mainfont: Calibri Light
 fontsize: 11pt
 header-includes:
   - \usepackage{fancyhdr}
@@ -16,8 +15,8 @@ header-includes:
 output: 
   pdf_document:
     latex_engine: xelatex
-
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -27,7 +26,7 @@ library(knitr)
 
 ```
 
-# *Methods*
+# **Methods**
 
 This is where the methods section of the report goes.
 
@@ -43,7 +42,7 @@ Methods of primary analysis go here.
 Methods of secondary analysis go here.
 
 
-# *Results*
+# **Results**
 
 ## *Primary Analysis*
 
@@ -56,7 +55,7 @@ Results of secondary analysis go here.
 
 \newpage
 
-# *Tables and Figures*
+# **Tables and Figures**
 
 ```{r, echo=FALSE}
 plot(pressure)
