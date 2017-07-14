@@ -7,6 +7,7 @@ output:
     widescreen: true
     smaller: true
     logo: mc_logo_rectangle.png
+    self_contained: true
     css: mc_slides.css
 ---
 
