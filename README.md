@@ -27,28 +27,28 @@ devtools::install_github("MethodsConsultants/mcdocs")
 
 -   This slide template has the following format for the title slide:
 
-    ![Title slide](inst/rmarkdown/templates/mc_pres_temp/skeleton/mc_title_slide.png)
+    ![Title slide](inst/images/screenshots/mc_title_slide.png)
 
 -   and non-title slides:
 
-    ![Non-title slide](inst/rmarkdown/templates/mc_pres_temp/skeleton/mc_non_title_slide.png)
+    ![Non-title slide](inst/images/screenshots/mc_non_title_slide.png)
 
 ### Methods Consultants Word Document
 
 -   This `.docx` template has the following format for the first page:
 
-    ![Title slide](inst/rmarkdown/templates/mc_docx_temp/skeleton/mc_docx_firstpage.png)
+    ![Docx first page](inst/images/screenshots/mc_docx_firstpage.png)
 
 -   and following pages:
 
-    ![Title slide](inst/rmarkdown/templates/mc_docx_temp/skeleton/mc_docx_nextpage.png)
+    ![Docx next page](inst/images/screenshots/mc_docx_nextpage.png)
 
 ### Methods Consultants PDF Report
 
 -   This `.pdf` template has the following format for the first page:
 
-    ![Title slide](inst/rmarkdown/templates/mc_pdf_temp/skeleton/mc_pdf_firstpage.png)
+    ![Title slide](inst/images/screenshots/mc_pdf_firstpage.png)
 
 -   and following pages:
 
-    ![Title slide](inst/rmarkdown/templates/mc_pdf_temp/skeleton/mc_pdf_nextpage.png)
+    ![Title slide](inst/images/screenshots/mc_pdf_nextpage.png)

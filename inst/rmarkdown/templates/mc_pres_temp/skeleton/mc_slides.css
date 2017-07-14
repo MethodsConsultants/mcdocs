@@ -9,12 +9,12 @@
   height: 120px !important;
 }
 
+slides > slide.backdrop {
+  background: Azure
+}
+
 slides > slide:not(.nobackground):before {
   width: 105px;
   height: 30px;
   background-size: 105px 30px;
-}
-
-slides > slide.backdrop {
-  background: Azure
 }
