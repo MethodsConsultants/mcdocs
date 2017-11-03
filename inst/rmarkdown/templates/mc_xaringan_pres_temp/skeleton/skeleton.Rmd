@@ -1,5 +1,5 @@
 ---
-title: "Methods - Xaringan Slide Deck"
+title: "Xaringan Slide Deck"
 author: "Methods Consultants"
 date: "YYYY/MM/DD"
 output:
