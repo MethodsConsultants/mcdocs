@@ -20,6 +20,7 @@ devtools::install_github("MethodsConsultants/mcdocs")
     5.  Click `OK`
 -   Current templates in the package:
     -   Methods Consultants Presentation Slides
+    -   Methods Consultants Xaringan Presentation Slides
     -   Methods Consultants Word Document
     -   Methods Consultants PDF Report
 
@@ -32,6 +33,16 @@ devtools::install_github("MethodsConsultants/mcdocs")
 -   and non-title slides:
 
     ![Non-title slide](README_files/images/mc_non_title_slide.png)
+
+### Methods Consultants Xaringan Presentation Slides
+
+-   This slide template has the following format for the title slide:
+
+    ![Xaringan Title slide](README_files/images/mc_xaringan_title_slide.png)
+
+-   and non-title slides:
+
+    ![Xaringan Non-title slide](README_files/images/mc_xaringan_non_title_slide.png)
 
 ### Methods Consultants Word Document
 
