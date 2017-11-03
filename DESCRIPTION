@@ -4,7 +4,7 @@ Version: 0.1
 Authors@R: person("Caleb", "Scheidel", email = "caleb@methodsconsultants.com", role = c("aut", "cre"))
 Description: This package is for internal and external use at Methods Consultants of Ann Arbor, to allow those associated to easily create documents and presentations associated with our company and brand.
 Depends: R (>= 3.4.0)
-License: None
+License: file LICENSE
 Imports: rmarkdown, knitr
 Encoding: UTF-8
 LazyData: true
