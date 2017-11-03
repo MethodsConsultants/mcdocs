@@ -1,6 +1,8 @@
 mcdocs
 ================
 
+[![Travis-CI Build Status](https://travis-ci.org/MethodsConsultants/mcdocs.svg?branch=master)](https://travis-ci.org/MethodsConsultants/mcdocs)
+
 R package of Methods Consultants branded RMarkdown templates
 
 Installation
