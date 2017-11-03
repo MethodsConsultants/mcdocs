@@ -5,7 +5,6 @@ date: "YYYY/MM/DD"
 output:
   xaringan::moon_reader:
     css: ["mc-xaringan.css", "mc-xaringan-fonts.css"]
-    lib_dir: libs
     nature:
       highlightStyle: github
       highlightLines: true
