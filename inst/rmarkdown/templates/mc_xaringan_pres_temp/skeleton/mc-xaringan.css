@@ -90,6 +90,7 @@ div.my-footer {
     left: 30px;
     height: 20px;
     width: 100%;
+    text-align: left;
 }
 div.my-footer span {
     font-size: 10pt;
