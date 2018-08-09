@@ -1,0 +1,31 @@
+---
+title: "Untitled"
+output:
+  github_document:
+    df_print: kable
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 10)
+```
+
+## Markdown Documents
+
+This is an R Markdown format used for publishing markdown documents to GitHub or Gitlab. It's based on the github document template that comes with `rmarkdown`, with a few important differences:
+
+### Tables
+
+Any data.frame returned in a chunk is automatically pretty-printed via `knitr::kable()`:
+
+```{r cars}
+head(mtcars)
+```
+
+### Plots
+
+Plots print a bit wider than default for easier viewing:
+
+```{r pressure}
+library(ggplot2)
+ggplot(mtcars, aes(x = hp, y = mpg)) + geom_point()
+```
