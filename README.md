@@ -65,3 +65,9 @@ devtools::install_github("MethodsConsultants/mcdocs")
 -   and following pages:
 
     ![pdf next page](README_files/images/mc_pdf_nextpage.png)
+
+### Methods Consultants Markdown Report
+
+-   Based on the "Github Document (Markdown)" template that comes with `rmarkdown`, but widens images and sets tables to be `kable()`'d automatically. Intended primarily for internal use.
+
+    ![markdown](README_files/images/mc_markdown.png)
