@@ -3,6 +3,8 @@ title: "Untitled"
 output:
   github_document:
     df_print: kable
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
